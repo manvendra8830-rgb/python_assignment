@@ -9,6 +9,5 @@ file.write("I become a devops engneer ")
 
 file.close()
 
-content = open("myfile.txt",'r')
-content = content.read()
-print(content)
+print("Sucessfully edit txt file")
+
